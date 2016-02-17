@@ -1,2 +1,13 @@
 # IPython-notebook checkpoints
 .ipynb_checkpoints/
+
+# generated automata and results
+complement
+ltl2dstar
+products
+semideterministic
+simplified
+
+# Binary of GOAL
+GOAL*
+
