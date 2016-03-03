@@ -9,6 +9,6 @@ If you only want to see how the evaluation of the complementation methods have b
 were complemented, see the 
 [Comparison notebook](https://nbviewer.jupyter.org/github/xblahoud/NCSB-Complementation/blob/master/Comparison.ipynb).
 If you want to reproduce the results, fork this repo and start with the [Index.ipynb](Index.ipynb) which explains how
-all the notebooks work. notebook.
+all the notebooks work.
 
 If you have any questions, do not hesitate to contact me.
